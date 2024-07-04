@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://c-Tariq/github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://c-Tariq/github.io/task-management-frontend/static/js/main.401ceb47.chunk.js",
-    "main.js.map": "https://c-Tariq/github.io/task-management-frontend/static/js/main.401ceb47.chunk.js.map",
-    "runtime~main.js": "https://c-Tariq/github.io/task-management-frontend/static/js/runtime~main.22499dc8.js",
-    "runtime~main.js.map": "https://c-Tariq/github.io/task-management-frontend/static/js/runtime~main.22499dc8.js.map",
-    "static/js/2.ac04ad9e.chunk.js": "https://c-Tariq/github.io/task-management-frontend/static/js/2.ac04ad9e.chunk.js",
-    "static/js/2.ac04ad9e.chunk.js.map": "https://c-Tariq/github.io/task-management-frontend/static/js/2.ac04ad9e.chunk.js.map",
-    "index.html": "https://c-Tariq/github.io/task-management-frontend/index.html",
-    "precache-manifest.155536576918b58a658ac9cb630fbbf3.js": "https://c-Tariq/github.io/task-management-frontend/precache-manifest.155536576918b58a658ac9cb630fbbf3.js",
-    "service-worker.js": "https://c-Tariq/github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://c-Tariq/github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "http://c-Tariq.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "http://c-Tariq.github.io/task-management-frontend/static/js/main.acd3c09f.chunk.js",
+    "main.js.map": "http://c-Tariq.github.io/task-management-frontend/static/js/main.acd3c09f.chunk.js.map",
+    "runtime~main.js": "http://c-Tariq.github.io/task-management-frontend/static/js/runtime~main.d80b8d9f.js",
+    "runtime~main.js.map": "http://c-Tariq.github.io/task-management-frontend/static/js/runtime~main.d80b8d9f.js.map",
+    "static/js/2.8152d26a.chunk.js": "http://c-Tariq.github.io/task-management-frontend/static/js/2.8152d26a.chunk.js",
+    "static/js/2.8152d26a.chunk.js.map": "http://c-Tariq.github.io/task-management-frontend/static/js/2.8152d26a.chunk.js.map",
+    "index.html": "http://c-Tariq.github.io/task-management-frontend/index.html",
+    "precache-manifest.952e27990ab237fe96a0ab6badb9ff54.js": "http://c-Tariq.github.io/task-management-frontend/precache-manifest.952e27990ab237fe96a0ab6badb9ff54.js",
+    "service-worker.js": "http://c-Tariq.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "http://c-Tariq.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
